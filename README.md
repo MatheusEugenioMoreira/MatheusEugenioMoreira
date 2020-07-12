@@ -11,9 +11,9 @@
 
 ### Algumas tecnologias que conheço:
 
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=#)
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white&link=#)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black)
 ![CSS Badge](https://img.shields.io/badge/-CSS3-563d7c?style=flat-square&logo=CSS3&logoColor=white&link=#)
-![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=#)
-![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=ReactJS&logoColor=white&link=#)
-![ReactNative Badge](https://img.shields.io/badge/-ReactNative-026e00?style=flat-square&logo=ReactNative&logoColor=white&link=#)
+![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=ReactJS&logoColor=white)
+![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white)
+![ReactNative Badge](https://img.shields.io/badge/-ReactNative-026e00?style=flat-square&logo=ReactNative&logoColor=white)
