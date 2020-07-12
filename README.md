@@ -1,16 +1,19 @@
-### Hi there 👋
+# Matheus Eugênio Moreira
 
-<!--
-**MatheusEugenioMoreira1/MatheusEugenioMoreira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/matheus-eugenio/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibify_official)](https://twitter.com/MathEM_12)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=55983225583&text=Olá%20tudo%20bem?)](https://api.whatsapp.com/send?phone=55983225583&text=Olá%20tudo%20bem?)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuseugeniomoreira1@gmail.com)](mailto:matheuseugeniomoreira1@gmail.com)
 
-Here are some ideas to get you started:
+# Olá !!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sempre disposto a aprender novas tecnologias, atualmente meu foco está em Desenvolvimento WEB e Mobile :smiley:
+
+### Algumas tecnologias que conheço:
+
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=#)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white&link=#)
+![CSS Badge](https://img.shields.io/badge/-CSS3-563d7c?style=flat-square&logo=CSS3&logoColor=white&link=#)
+![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=#)
+![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=ReactJS&logoColor=white&link=#)
+![ReactNative Badge](https://img.shields.io/badge/-ReactNative-026e00?style=flat-square&logo=ReactNative&logoColor=white&link=#)
