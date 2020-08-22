@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=553183225583">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
 <a href="#">
