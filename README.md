@@ -10,11 +10,11 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.instagram.com/matheugenio/?hl=pt-br">
+<a href="https://api.whatsapp.com/send?phone=553183225583">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-<a href="https://www.instagram.com/matheugenio/?hl=pt-br">
+<a href="#">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
@@ -27,9 +27,9 @@
 **Some personal informations:**
 
 <p>- 👨‍💻 Hello my name is Matheus, I am a student, developer, IT technician and investor. At this moment i am currently finishing my technical course in IT, I am specializing in information systems and cybersecurity, I am always willing to learn something new🚀🚀💰</p>
-<p>- 📫 Contact me: matheuseugeniomoreira1@gmail.com;</p>
+<p>- ✉6 Contact me: matheuseugeniomoreira1@gmail.com;</p>
 
-####                                You are responsible for your future 
+#### You are responsible for your future 
 
 **Skills:**
 
